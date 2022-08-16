@@ -118,14 +118,6 @@ def player_choice(board, name):
             print('Please choose a number')
     return position
 
-def machine_choice(board, marker):
-
-    if space_check(board, 5):
-        return 5
-    if space_check(board, {}):
-        return
-
-
 
 # Check if they want to replay or not
 def replay():
