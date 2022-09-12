@@ -1,3 +1,3 @@
 # PythonProjects
-This is Tic Tac Toe game
-This is person to person
+This is where I store my Python's projects
+Enjoy my works
